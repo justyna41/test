@@ -24,7 +24,6 @@ Simple Github client, contains ability to list issues, create issues and close i
 
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
 To run this application you need to enter the PersonalAccesKey for your GH accout  and repository name in /config/application.yml, 
 this information will be delivery to application through Figaro gem
 
