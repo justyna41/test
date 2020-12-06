@@ -1,5 +1,4 @@
-# Project Name
-> Here goes your awesome project description!
+# Simple Github api
 
 ## Table of contents
 * [General info](#general-info)
@@ -8,7 +7,6 @@
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
@@ -21,15 +19,15 @@ Simple Github client, contains ability to list issues, create issues and close i
 * Ruby - version 2.7.0
 * Ruby on Rails - version 6.0.3
 * React - 16.8, integrated with rails through React On Rails
+* Redux-  4.0.5
+* Redux-saga-  1.1.3
+
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
 To run this application you need to enter the PersonalAccesKey for your GH accout  and repository name in /config/application.yml, 
 this information will be delivery to application through Figaro gem
 
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
 
 ## Features
 List of features ready
